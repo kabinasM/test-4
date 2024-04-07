@@ -1,24 +1,24 @@
 {
-   "biriyani-bucket" : [
+   "bucketbiriyani" : [
         {
           "Image": "https://5.imimg.com/data5/GT/BN/FF/SELLER-78937821/200ml-tropicana-orange-delight.jpg",
           "title": "JUICES",
-          "veg": "  veg  ",
+          "veg": " veg  ",
           "price": "₹20",
           "description": ""
         },
         {
           "Image": "https://www.jiomart.com/images/product/original/492490692/parle-g-royale-biscuits-360-g-product-images-o492490692-p599105426-0-202303070430.jpg?im=Resize=(420,420)g",
           "title": "BISCUITS",
-          "veg": "  veg",
-          "price": "₹20"
+          "veg": " veg",
+          "price": "₹10",
           "description": ""
         },
         {
           "Image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=900/app/images/products/sliding_image/289152a.jpg?ts=1684345618",
           "title": "CHIPS",
           "veg": " veg",
-          "price": "₹20",
+          "price": "₹10",
           "description": ""
         },
         {
@@ -28,6 +28,5 @@
           "price": "₹20",
           "description": ""
         }
-       
       ]
 }
